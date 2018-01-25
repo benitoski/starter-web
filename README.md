@@ -8,8 +8,10 @@ This example is to share different parts of the Git repository and various comma
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above, the main purpose is to provide simple examples for git training demos
 
 ## Deployment
+
+This is a simple web project, deployment can be on any server or even local file system.
 
 ## How To Contribute
